@@ -1,0 +1,6 @@
+# macOS system files
+.DS_Store
+__MACOSX/
+
+# Node.js/npm
+node_modules/
